@@ -198,12 +198,12 @@ CSS files are not included
 <br>
 ### Turnstile Report
 
-Page has not been developed
-<br>
-<br>
 Displays all the hourlies from one ride for the selected day and park hours
 <br>Displays the accumulated riders, percent utilization, and rides per guest
 <br>
+
+<img style="width: 40%; height: auto;" src="Web Files/Report.png" /><br>
+
 ### Hourly
 
 Displays the hourly count from all rides at the selected Date/Time
